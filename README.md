@@ -1,2 +1,12 @@
-# frozen
-Irreversible temperature-threshold indicator 
+## Abstract
+A temperature-monitoring and -witnessing indicator useful for thermal exposure tracking of temperature-sensitive products. It provides visually or tactile-distinct signal or thermal exposure, such as change of form or color. Proposed indicator allows any untrained customer to check indicator state before purchase and without opening product package.
+
+## Background
+In many fields, it is important to know when a specific threshold temperature has been passed by a particular commodity, machine, or the like. For various reasons, it is valuable to know if at any time one or more threshold temperatures have been passed by the thing being monitored, especially when it has not been under the control of the person most concerned with this threshold temperature.
+In the frozen-food business, it is essential that the foodstuff, for example, meat, be frozen rapidly to a very low temperature, and be maintained below a predetermined lower limit. The rapid freezing is needed to prevent excessive formation of cell-damaging crystals, and maintaining the desired cold is necessary to prevent subsequent formation of ice crystals which can puncture cells and leave the foodstuff wet and pulpy. Similarly, the shelf life of the product is greatly decreased if it is frozen, thawed, and refrozen. In this particular situation, an irreversible temperature witness is needed since the consumer cannot ascertain from looking at a product that is frozen if it will be good when thawed.
+A classic temperature witness is described in U.S. Pat. No. 1,535,536 and in French patent No. 1,391,673. A body that is made of a material whose melting point is the desired threshold temperature is juxtaposed with a dye so that when the threshold temperature is passed the body melts and absorbs the dye. The resultant color change remains even if the body is refrozen. The device must be made at low temperature and stored at such temperature, making its use and transport somewhat difficult.
+In French patent No. 1,515,914 such an arrangement is proposed where the dye is held in a frangible capsule in the body to provide so-called autoreadying action The capsule keeps the dye away from the body during manufacture and before use. The first time the unit is frozen, however, the capsule ruptures. Since by this time the body and the dye are fairly frozen, there is no mixing of the two until they thaw, after that they mix and make an irreversible color change.
+The best of such temperature-witnessing devices are not widely used. They are often very difficult and hence expensive to manufacture. Frequently they can be tampered with and reset.
+
+## Summary of the invention
+...
